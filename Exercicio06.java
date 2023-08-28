@@ -1,4 +1,4 @@
-/*6) Solicite um valor do teclado e exiba a dvisao*/
+/*6) Solicite um valor do teclado e exiba a divisao*/
 
 package exercicio;
 
